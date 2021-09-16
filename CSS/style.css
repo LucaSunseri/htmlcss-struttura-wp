@@ -10,3 +10,65 @@
   display: table;
   clear: both;
 }
+
+.container {
+  margin: 2% 10%;
+}
+
+/**********header**********/
+header {
+  height: 50px;
+  background-color: #e579e6;
+  margin-bottom: 10px;
+}
+
+/**********main**********/
+
+/*main top*/
+.jumbotron {
+  height: 200px;
+  background-color: #e1d67a;
+  margin-bottom: 10px;
+}
+
+/*main content*/
+.top-main {
+  height: 35px;
+  background-color: #abcfe7;
+}
+
+/*layout clearfix*/
+.clearfix{
+  background-color: #0087ff;
+}
+
+aside, .content {
+  height: 200px;
+  float: left;
+  background-color: #abcfe7;
+  margin: 2% 0;
+}
+
+aside {
+  width: 15%;
+}
+
+.content {
+  width: 66%;
+  margin: 2% 2%;
+}
+
+/**********footer**********/
+footer {
+  height: 25px;
+  background-color: #8801fe;
+  margin-top: 5px;
+}
+
+
+
+
+
+
+
+
